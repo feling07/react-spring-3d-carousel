@@ -21,6 +21,7 @@
   "dependencies": {
     "@emotion/core": "^10.0.7",
     "@emotion/styled": "^10.0.7",
+    "file-loader": "^6.0.0",
     "react-spring": "^8.0.5"
   },
   "peerDependencies": {
